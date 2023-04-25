@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    background-color: blue;
+    border-color: red;
+    
+}
+
+.heading,.start,.display{
+ margin: 10px;
+    
+}
